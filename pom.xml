@@ -47,6 +47,7 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
+		<module>semanticcms-file-all</module>
 		<module>semanticcms-file-model</module>
 		<module>semanticcms-file-servlet</module>
 		<module>semanticcms-file-style</module>

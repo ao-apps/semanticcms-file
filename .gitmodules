@@ -13,3 +13,6 @@
 [submodule "semanticcms-file-view"]
 	path = semanticcms-file-view
 	url = git@github.com:aoindustries/semanticcms-file-view.git
+[submodule "semanticcms-file-all"]
+	path = semanticcms-file-all
+	url = git@github.com:aoindustries/semanticcms-file-all.git
