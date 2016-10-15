@@ -3,7 +3,7 @@ Parent POM for files nested within [SemanticCMS](https://semanticcms.com/) pages
 
 ## Project Links
 * [Project Home](https://semanticcms.com/file/)
-* [Maven Central Repository](http://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-file%22)
+* [Maven Central Repository](https://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-file%22)
 * [GitHub](https://github.com/aoindustries/semanticcms-file)
 
 ## Modules
