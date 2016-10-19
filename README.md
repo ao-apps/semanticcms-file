@@ -8,6 +8,7 @@ Parent POM for files nested within [SemanticCMS](https://semanticcms.com/) pages
 
 ## Modules
 * [SemanticCMS File All](https://semanticcms.com/file/all/)
+* [SemanticCMS File Book](https://semanticcms.com/file/book/)
 * [SemanticCMS File Model](https://semanticcms.com/file/model/)
 * [SemanticCMS File Servlet](https://semanticcms.com/file/servlet/)
 * [SemanticCMS File Style](https://semanticcms.com/file/style/)
