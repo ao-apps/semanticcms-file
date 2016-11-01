@@ -16,3 +16,21 @@
 [submodule "semanticcms-file-all"]
 	path = semanticcms-file-all
 	url = git@github.com:aoindustries/semanticcms-file-all.git
+[submodule "add"]
+	path = add
+	url = git@github.com:aoindustries/semanticcms-file-all.git
+[submodule "model"]
+	path = model
+	url = git@github.com:aoindustries/semanticcms-file-model.git
+[submodule "servlet"]
+	path = servlet
+	url = git@github.com:aoindustries/semanticcms-file-servlet.git
+[submodule "style"]
+	path = style
+	url = git@github.com:aoindustries/semanticcms-file-style.git
+[submodule "taglib"]
+	path = taglib
+	url = git@github.com:aoindustries/semanticcms-file-taglib.git
+[submodule "view"]
+	path = view
+	url = git@github.com:aoindustries/semanticcms-file-view.git

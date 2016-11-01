@@ -57,11 +57,11 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
-		<module>semanticcms-file-all</module>
-		<module>semanticcms-file-model</module>
-		<module>semanticcms-file-servlet</module>
-		<module>semanticcms-file-style</module>
-		<module>semanticcms-file-taglib</module>
-		<module>semanticcms-file-view</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>view</module>
 	</modules>
 </project>
