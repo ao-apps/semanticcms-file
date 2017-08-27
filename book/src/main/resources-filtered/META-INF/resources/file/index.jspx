@@ -34,11 +34,12 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2016-10-19T02:33:00-0500"
-		dateModified="2017-07-18T20:35:30-0500"
+		dateModified="2017-08-26T16:49:30-0500"
 	>
 		<core:child page="changelog" />
 		<core:child book="/file/all" page="/" />
 		<core:child book="/file/model" page="/" />
+		<core:child book="/file/renderer/html" page="/" />
 		<core:child book="/file/servlet" page="/" />
 		<core:child book="/file/style" page="/" />
 		<core:child book="/file/taglib" page="/" />
@@ -66,6 +67,7 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 			<ul>
 				<li><core:link book="/file/all" page="/" /></li>
 				<li><core:link book="/file/model" page="/" /></li>
+				<li><core:link book="/file/renderer/html" page="/" /></li>
 				<li><core:link book="/file/servlet" page="/" /></li>
 				<li><core:link book="/file/style" page="/" /></li>
 				<li><core:link book="/file/taglib" page="/" /></li>

@@ -30,6 +30,7 @@ Aggregator POM for files nested within [SemanticCMS](https://semanticcms.com/) p
 * [SemanticCMS File All](https://semanticcms.com/file/all/)
 * [SemanticCMS File Book](https://semanticcms.com/file/book/)
 * [SemanticCMS File Model](https://semanticcms.com/file/model/)
+* [SemanticCMS File Renderer HTML](https://semanticcms.com/file/renderer/html/)
 * [SemanticCMS File Servlet](https://semanticcms.com/file/servlet/)
 * [SemanticCMS File Style](https://semanticcms.com/file/style/)
 * [SemanticCMS File Taglib](https://semanticcms.com/file/taglib/)

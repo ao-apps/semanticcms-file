@@ -16,3 +16,6 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-file-all.git
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/semanticcms-file-renderer-html.git
