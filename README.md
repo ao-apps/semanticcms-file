@@ -27,6 +27,7 @@ Aggregator POM for files nested within [SemanticCMS](https://github.com/aoindust
 * [GitHub](https://github.com/aoindustries/semanticcms-file)
 
 ## Modules
+* [SemanticCMS File BOM](https://github.com/aoindustries/semanticcms-file-bom)
 * [SemanticCMS File All](https://github.com/aoindustries/semanticcms-file-all)
 * [SemanticCMS File Model](https://github.com/aoindustries/semanticcms-file-model)
 * [SemanticCMS File Renderer HTML](https://github.com/aoindustries/semanticcms-file-renderer-html)
