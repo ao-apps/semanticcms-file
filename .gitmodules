@@ -16,3 +16,6 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-file-all.git
+[submodule "bom"]
+	path = bom
+	url = git@aoindustries.github.com:aoindustries/semanticcms-file-bom.git
