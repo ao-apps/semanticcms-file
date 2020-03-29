@@ -37,7 +37,7 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2016-10-30T23:02:32-0500"
-		dateModified="2019-10-12T00:21:40-0500"
+		dateModified="2020-03-29T08:29:37-05:00"
 	>
 		<!-- The current snapshot, unreleased version -->
 		<c:set var="version" value="@{com.semanticcms:semanticcms-file:pom.version}" />
@@ -61,6 +61,28 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 
 		<changelog:release
 			projectName="@{documented.name}"
+			version="1.6.0"
+			datePublished="2020-03-29T08:29:37-05:00"
+			groupId="@{project.groupId}"
+			artifactId="@{documented.artifactId}"
+			scmUrl="@{project.scm.url}"
+		>
+			<ul>
+				<li>
+					Reduced use of property substitutions in <code>pom.xml</code>.
+					This is to help 3rd-party parsers that fail to perform full Maven-compatible substitutions.
+				</li>
+				<li>Updated version of <core:link book="/file/bom" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/all" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/servlet" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/style" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/taglib" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/view" page="/" />.</li>
+			</ul>
+		</changelog:release>
+
+		<changelog:release
+			projectName="@{documented.name}"
 			version="1.5.0"
 			datePublished="2019-10-12T00:21:40-0500"
 			groupId="@{project.groupId}"
@@ -68,11 +90,11 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 			scmUrl="@{project.scm.url}"
 		>
 			<ul>
-				<li>Updated version of <core:link book="/file/bom" page="/index.jspx" />.</li>
-				<li>Updated version of <core:link book="/file/all" page="/index.jspx" />.</li>
-				<li>Updated version of <core:link book="/file/model" page="/index.jspx" />.</li>
-				<li>Updated version of <core:link book="/file/servlet" page="/index.jspx" />.</li>
-				<li>Updated version of <core:link book="/file/taglib" page="/index.jspx" />.</li>
+				<li>Updated version of <core:link book="/file/bom" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/all" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/model" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/servlet" page="/" />.</li>
+				<li>Updated version of <core:link book="/file/taglib" page="/" />.</li>
 			</ul>
 		</changelog:release>
 
