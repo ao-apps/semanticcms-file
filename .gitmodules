@@ -1,6 +1,18 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/semanticcms-file-bom.git
+	branch = .
+[submodule "all"]
+	path = all
+	url = git@github.com:aoindustries/semanticcms-file-all.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/semanticcms-file-model.git
+	branch = .
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/semanticcms-file-renderer-html.git
 	branch = .
 [submodule "servlet"]
 	path = servlet
@@ -17,16 +29,4 @@
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/semanticcms-file-view.git
-	branch = .
-[submodule "all"]
-	path = all
-	url = git@github.com:aoindustries/semanticcms-file-all.git
-	branch = .
-[submodule "renderer-html"]
-	path = renderer-html
-	url = git@github.com:aoindustries/semanticcms-file-renderer-html.git
-	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/semanticcms-file-bom.git
 	branch = .
