@@ -35,7 +35,7 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<!-- SonarQube -->
 		<sonar.projectKey>${project.groupId}:${project.artifactId}</sonar.projectKey>
-		<sonar.organization>aoindustries</sonar.organization>
+		<sonar.organization>ao-apps</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
@@ -68,20 +68,20 @@ along with semanticcms-file.  If not, see <http://www.gnu.org/licenses />.
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/aoindustries/semanticcms-file.git</connection>
-		<developerConnection>scm:git:git@github.com:aoindustries/semanticcms-file.git</developerConnection>
-		<url>https://github.com/aoindustries/semanticcms-file</url>
+		<connection>scm:git:git://github.com/ao-apps/semanticcms-file.git</connection>
+		<developerConnection>scm:git:git@github.com:ao-apps/semanticcms-file.git</developerConnection>
+		<url>https://github.com/ao-apps/semanticcms-file</url>
 		<tag>HEAD</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/aoindustries/semanticcms-file/issues</url>
+		<url>https://github.com/ao-apps/semanticcms-file/issues</url>
 	</issueManagement>
 
 	<ciManagement>
 		<system>GitHub Actions</system>
-		<url>https://github.com/aoindustries/semanticcms-file/actions</url>
+		<url>https://github.com/ao-apps/semanticcms-file/actions</url>
 	</ciManagement>
 
 	<repositories>
