@@ -29,7 +29,7 @@ along with semanticcms-file.  If not, see <https://www.gnu.org/licenses/>.
     <relativePath>../../parent/pom.xml</relativePath>
   </parent>
 
-  <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-book</artifactId><version>1.8.1-SNAPSHOT</version>
+  <groupId>com.semanticcms</groupId><artifactId>semanticcms-file-book</artifactId><version>1.8.1</version>
   <packaging>bundle</packaging>
 
   <properties>
@@ -76,7 +76,7 @@ along with semanticcms-file.  If not, see <https://www.gnu.org/licenses/>.
     <connection>scm:git:git://github.com/ao-apps/semanticcms-file.git</connection>
     <developerConnection>scm:git:git@github.com:ao-apps/semanticcms-file.git</developerConnection>
     <url>https://github.com/ao-apps/semanticcms-file</url>
-    <tag>HEAD</tag>
+    <tag>semanticcms-file-book-1.8.1</tag>
   </scm>
 
   <issueManagement>
