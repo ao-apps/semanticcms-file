@@ -19,7 +19,7 @@ Aggregator POM for files nested within [SemanticCMS](https://github.com/ao-apps/
 ## Project Links
 * [Project Home](https://semanticcms.com/file/)
 * [Changelog](https://semanticcms.com/file/changelog)
-* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.semanticcms&q=a%3Asemanticcms-file)
+* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-file)
 * [GitHub](https://github.com/ao-apps/semanticcms-file)
 
 ## Modules
